@@ -1,0 +1,7 @@
+User/pass: dev_intern / dev981db //oracle server 101.99.6.31
+Aladin123
+user oracle: duynd96
+pass oracle: Duy@123
+
+con oracle 2 192.168.1.249 Orcl1234  ot
+$ netstat -anp | grep LISTEN
